@@ -14,10 +14,10 @@ O artigo em questão procura analisar, de maneira comparativa, a eficiência de 
 * _Advanced Configuration and Power Interface_ (Configuração Avançada e Interface de Energia) é um padrão para o gerenciamento de energia do computador (página 2).
 
 ## 3. Fichamento de Citações
-* _"To take advantage of these human abilities, a new computing approach—called human computation—has emerged to let humans perform the tasks for which there's still no satisfactory solution via today's silicon-based computers"_
-* _"Volunteer thinking projects are analogous to volunteer computing projects, such as SETI@home"_
-* _"Our results suggest that we can broadly divide participants into transient volunteers (those who execute tasks only one day and don't return) and regular volunteers (those who return at least one more day to execute more tasks after executing the first task in the project)."_
-* _"Given these intervals, we use the threshold-based methodology [11] to determine the sessions."_
-* _"There's a strong correlation between volunteers' frequency and their devoted time to the project"_
-* _"There's also a moderate correlation between daily productivity and session duration for regular volunteers"_
-* _"In the Milky Way Project, the main change from normal days to busy days is that the proportion of traffic from the UK increases from 16 to 34 percent, and the proportion of users that came to the project through the BBC's website (bbc.co.uk) increases from 3 to 24 percent."_
+* _"In this work we propose productivity-aware dynamic frequency scaling (PAFS), which is a DFS policy decoupled from both the application and the operating system."_
+* _"We compare PAFS with other policies that focus on power saving, maximum system performance, and load-dependent performance"_
+* _"the main contribution of PAFS is to empower users to dynamically control power consumption based on application’s productivity needs"_
+* _"When in operation, PAFS will periodically (with periodicity ΔT) decrease the processors clock frequency (and, consequently, power consumption) in steps (ΔF) until a performance fault happens (e.g., the servicing of a request exceeds the contracted response time)."_
+* _"Our results show that PAFS policy exhibits a consistently better energy consumption values in comparison to the Ondemand system-level policy, reaching up to 23.65% energy savings with no noticeable losses on the productivity metric."_
+
+
