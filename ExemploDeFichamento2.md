@@ -4,7 +4,7 @@ Li, Zheng; Harman, Mark; Hierons, Robert M. (2007) "Search Algorithms for Regres
 
 ## 1. Fichamento de Conteúdo
 
-
+A princípio, é indubitável que computadores, em um geral, podem permanecer inativos por longo periodo de tempo. Assim, durante esses períodos, sua exploração de recursos não é eficiente quando se fala em consumo de energia. 
 
 ## 2. Fichamento Bibliográfico
 * _Peer-to-Peer (P2P) Grids_ (grades ponta a ponta) é uma arquitetura de aplicativo distribuída que particiona tarefas ou cargas de trabalho entre pares (páginas 1 a 20).
