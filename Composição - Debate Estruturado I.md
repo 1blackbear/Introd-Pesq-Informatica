@@ -1,23 +1,18 @@
-# Energy Efficient Computing through Productivity-Aware Frequency Scaling
+# Composição
 
-L. Ponciano, A. Brito, L. Sampaio and F. Brasileiro, "Energy Efficient Computing through Productivity-Aware Frequency Scaling," 2012 Second International Conference on Cloud and Green Computing, 2012, pp. 191-198. doi: [10.1109/CGC.2012.59](https://doi.org/10.1109/CGC.2012.59)
+<p>Os dois artigos abordam assuntos relacionados ao consumo de energia em sistemas usualmente utilizados por usuários de todo o mundo. Desse modo, apesar de focos diferentes, os artigos interpelam um tópico que gera bastante discussão nos dias atuais, uma vez que o consumo de energia é algo que sempre procuramos obter a menor quantidade possível. A esse ver, dado que tanto por motivos financeiros (evitar gastos excessivos e desnecessários) quanto por motivos ambientais, a geração de energia de sistemas computacionais deve se consumar na melhor administração de recursos para que o consumo de energia seja o menor possível. Tendo isso em vista, essa composição irá averiguar 2 abordagens sobre o consumo de energia em sistemas computacionais.</p>
+<p>A partir disso, o artigo "Energy Efficient Computing Through Productivity-Aware Frequency Scaling", (em português computação com eficiência energética por meio de escalonamento de frequência voltado para a produtividade), escrito por L. Ponciano, A. Brito, L. Sampaio e F. Brasileiro, procura dar uma solução para esse péssimo problema, de forma feliz. Para tal ação, é utilizado, por parte dos autores, o LAMP (Linux, Apache, MySQL, e PHP) para a criação de um algoritmo de escalonamento que será responsável pelo consumo e administração energética de um sistema. Assim sendo, o algoritmo de escalonamento criado para atingir tal fim foi o denominado "Productivity-aware dynamic frequency scaling" (em português, dinâmica voltada para a produtividade da escala de frequência), e assim como o nome diz, é uma dinâmica de escalonamento para aumentar eficiência do gerenciamento de energia.</p>
+<p>Já o artigo "Assessing Green Strategies in Peer-to-Peer Opportunistic Grids", (em português Avaliando Estratégias Verdes em Redes Oportunistas de Ponta a Ponta), escrito por (insira os autores aqui), avalia formas eficientes de um sistema computacional administrar os consumo de energia em situações de inatividade, apesar de já haver o modo hibernação que também serve como solução para esse problema.</p>
+Uma vez introduzido estes dois artigos, é possível traçar semelhanças, diferenças e possíveis discussões sobre o tema, que é o consumo de energia, porém em diferentes abordagens. <p>À este modo, enquanto o primeiro artigo apresentado é voltado à administração do processador em relação às tarefas, tal como um estudo de caso, o segundo artigo almeja abrir espaço para futuras pesquisas, uma vez que, como citado no próprio artigo: "Furthermore, future research could explore how to predict the length of machine availability and the Grid workload in order to define the timeout to be used at each moment".</p>
+<p>Portanto, </p>
 
 
-## 1. Fichamento de Conteúdo
-
-O artigo em questão procura analisar, de maneira comparativa, a eficiência de um algoritmo de escalonamento na manutenção do consumo de energia de tal sistema. Em vista disso, os processadores são um dos principais responsáveis pelo consumo e administração energética de um sistema, a partir do momento em que o consumo se dá pela escala de frequência dinâmica, em inglês "dynamic frequency scaling" (DFS), a qual consiste em mudar a frequência de clock do processador em tempo real. Com isso, o trabalho em questão propõe uma dinâmica voltada para a produtividade da escala de frequência, em inglês "productivity-aware dynamic frequency scaling" (PAFS), que é, também, uma política DFS. Desse modo, através do PAFS, o objetivo do estudo é realizar uma abordagem para generalizar políticas DFS de nível de tarefa, de modo a obter uma economia de energia melhor em relação às políticas DFS amplamente utilizadas hodiernamente na produção de sistemas. Para atingir tal fim, o algoritmo de escalonamento PAFS, implementado integralmente com LAMP (Linux, Apache, MySQL, e PHP), foi executado em um kernel Linux que suporta todas as técnicas padrões de DFS, o qual por meio de um servidor web foi analisada a eficácia de tal. Como resultado, a política PAFS exibe uma consistência com melhores valores de consumo de energia em relação a política Ondemand, obtendo 23,65% de economia de energia sem perdas perceptíveis de produtividade.
-
-## 2. Fichamento Bibliográfico
-
-* _Dynamic frequency scaling_ (escala de frequência dinâmica) é uma tecnologia que permite que o processador conserve energia e reduza o ruído quando estiver sob uma carga leve (páginas 1, 2, 4 e 7).
-* _Productivity-aware dynamic frequency scaling_ (dinâmica voltada para a produtividade da escala de frequência) assim como o nome diz, é uma dinâmica de escalonamento para aumentar eficiência do gerenciamento de energia (páginas 1 a 7).
-* _Advanced Configuration and Power Interface_ (Configuração Avançada e Interface de Energia) é um padrão para o gerenciamento de energia do computador (página 2).
-
-## 3. Fichamento de Citações
+## Questionamentos
 * _"In this work we propose productivity-aware dynamic frequency scaling (PAFS), which is a DFS policy decoupled from both the application and the operating system."_
 * _"We compare PAFS with other policies that focus on power saving, maximum system performance, and load-dependent performance"_
 * _"the main contribution of PAFS is to empower users to dynamically control power consumption based on application’s productivity needs"_
 * _"When in operation, PAFS will periodically (with periodicity ΔT) decrease the processors clock frequency (and, consequently, power consumption) in steps (ΔF) until a performance fault happens (e.g., the servicing of a request exceeds the contracted response time)."_
-* _"Our results show that PAFS policy exhibits a consistently better energy consumption values in comparison to the Ondemand system-level policy, reaching up to 23.65% energy savings with no noticeable losses on the productivity metric."_
+
+*Erick Vinicius Oliveira de Paiva*
 
 
