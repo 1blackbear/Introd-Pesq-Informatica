@@ -1,6 +1,6 @@
 # Assessing Green Strategies in Peer-to-Peer Opportunistic Grids
 
-Li, Zheng; Harman, Mark; Hierons, Robert M. (2007) "Search Algorithms for Regression Test Case Prioritization", IEEE Transactions on Software Engineering, vol. 33, no. 4, pp. 225-237, doi: [10.1109/TSE.2007.38](https://doi.org/10.1109/TSE.2007.38)
+Ponciano, L., Brasileiro, F. Assessing Green Strategies in Peer-to-Peer Opportunistic Grids. J Grid Computing 11, 129–148 (2013). https://doi-org.ez93.periodicos.capes.gov.br/10.1007/s10723-012-9218-3
 
 ## 1. Fichamento de Conteúdo
 
