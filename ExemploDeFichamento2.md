@@ -1,17 +1,16 @@
-# Search Algorithms for Regression Test Case Prioritization
+# Assessing Green Strategies in Peer-to-Peer Opportunistic Grids
 
 Li, Zheng; Harman, Mark; Hierons, Robert M. (2007) "Search Algorithms for Regression Test Case Prioritization", IEEE Transactions on Software Engineering, vol. 33, no. 4, pp. 225-237, doi: [10.1109/TSE.2007.38](https://doi.org/10.1109/TSE.2007.38)
 
 ## 1. Fichamento de Conteúdo
 
-Testes de regressão são executados em software para verificar se uma mudança introduziu algum erro no software. É um processo demorado. A priorização dos casos de teste visa permitir que falhas (testes que não passam) sejam descobertos o quanto antes. Li, Harman e Hierons (2007) defendem que não há solução ótima para o problema, podendo ele ser mapeado no problema da mochila, que é provadamente NP-difícil. Assim, eles investigam o desempenho de heurísticas na solução desse problema. Em particular, heurísticas baseadas em algoritmos de busca (Hill Climbing e Genetic Algorithms) e algoritmos gulosos (Greedy, Additional Greedy, e 2-Optimal Greedy).  Experimentos são realizados com  seis programas que variam de 374 a 11.148 linhas de código (LOC, lines of codes)  e possuem suítes de teste de tamanho médio que variam de 230 a 4350 testes. Os resultados mostram que as heurísticas Additional Greedy, 2-Optimal e Genetic Algorithm são melhores que Greedy Algorithm puro. A explicação é que nesse tipo de problema há muitos ótimos locais, principalmente em grandes programas, de modo que, algoritmos baseados em busca global tendem a ser melhores do que algoritmos de busca local.
+
 
 ## 2. Fichamento Bibliográfico
-* O algoritmo de Busca Gulosa (Greedy Algorithm)  trabalha com o princípio do "próximo melhor", calcula um peso de cada teste em termos de maximizar a métrica de interesse (como a cobertura do código), e escolhe como próximo teste a ser executado, aquele que possui maior peso.
-* O algoritmo de Busca Gulosa Adicional (Additional Greedy Algorithm) calcula o peso de cada teste buscando definir um próximo teste de modo a maximizar a parte dos testes que não foi atingida pelas decisões anteriores. Ou seja, está sempre buscando a parte adicional, não é métrica "geral".
-* O 2-Optimal Algorithm seleciona os próximos 2 testes que juntos maximizam a métrica de interesse.
-* Escalada ou subida da colina (Hill Climbing ) é um algoritmo subótimo ou de ótimo local, seleciona o próximo teste baseado no ‘vizinho’ do teste atual que gera melhor resultado na métrica de interesse.
-* Algoritmo Genético (Genetic Algorithms) define um cromossomo composto por todos os testes. Cada posição do cromossomo indica ordem em que respectivo teste será executado. A função de aptidão do indivíduo é calculada baseada no valor obtido para o indivíduo e na ordem do indivíduo na população. São realizadas mutações e cruzamentos. (No texto não está muito clara a condição de término)
+* _Peer-to-Peer (P2P) Grids_ (grades ponta a ponta) é uma arquitetura de aplicativo distribuída que particiona tarefas ou cargas de trabalho entre pares (páginas 1 a 20).
+* _Bag-of-Tasks (BoT)_ (Sacola-de-tarefas) são aplicativos paralelos compostos de tarefas independentes (páginas 2, 4, 5, 7, 8, 9, 12, 15, 16, 17 e 18).
+* _Configuration and Power Interface (ACPI)_ (Configuração e Interface de Energia) é um padrão para o gerenciamento de energia do computador (página 4).
+
 
 ## 3. Fichamento de Citações
 * _"Test case prioritization (...) orders test cases so that the test cases with highest priority, according to some criterion (a "fitness metric"), are executed first."_
