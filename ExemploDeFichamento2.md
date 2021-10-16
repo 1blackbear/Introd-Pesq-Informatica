@@ -4,7 +4,7 @@ Li, Zheng; Harman, Mark; Hierons, Robert M. (2007) "Search Algorithms for Regres
 
 ## 1. Fichamento de Conteúdo
 
-A princípio, é indubitável que computadores, em um geral, podem permanecer inativos por longo periodo de tempo. Assim, durante esses períodos, sua exploração de recursos não é eficiente quando se fala em consumo de energia. 
+A princípio, é indubitável que computadores, em um geral, podem permanecer inativos por longo periodo de tempo. Assim, durante esses períodos, sua exploração de recursos não é eficiente quando se fala em consumo de energia. Com isso, uma das formas atuais utilizadas para mitigar esse problema é o estado de hibernação do computador, o qual irá consumir menos energia que o normal. Neste trabalho, é avaliado o impacto sobre a economia de energia, o tempo de resposta dos trabalhos e a vida útil dos discos, caso um P2P Grid utilizar algum estado de hibernação. Para isso, foi usadas simulações para verificar os estados de sono de modo que economize energia em cada site de uma rede P2P. Como resultado, é possível observar que o comprimento da disponibilidade da máquina influencia, sobretudo, a eficácia do estado de sono, além disso, em sites de grade o impacto na vida útil dos discos é menor do que o experimentado pelas máquinas em seus operação normal se uma política for usada por seus os proprietários.
 
 ## 2. Fichamento Bibliográfico
 * _Peer-to-Peer (P2P) Grids_ (grades ponta a ponta) é uma arquitetura de aplicativo distribuída que particiona tarefas ou cargas de trabalho entre pares (páginas 1 a 20).
