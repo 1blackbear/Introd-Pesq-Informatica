@@ -9,10 +9,9 @@ O artigo em questão procura analisar, de maneira comparativa, a eficiência de 
 
 ## 2. Fichamento Bibliográfico
 
-* _Frequency_ (frequência) é o número de dias em que o voluntário esteve ativo executando tarefas no sistema/projeto (página 54).
-* _Daily productivity_ (produtividade diária) é a quantidade média de tarefas que o voluntário executa por dia em que está ativo (página 54).
-* _Typical session duration_ (duração média da sessão) é a quantidade de tempo seguido que o usuário permanece executando tarefas no projeto/sistema (página 54).
-* _Devoted time_ é o total de tempo que o voluntário permaneceu executando tarefas no sistema contando todas as suas participações, ou seja, somando as horas em todos os dias em que esteve ativo (página 54).
+* _Dynamic frequency scaling_ (escala de frequência dinâmica) é uma tecnologia que permite que o processador conserve energia e reduza o ruído quando estiver sob uma carga leve (páginas 1, 2, 4 e 7).
+* _Productivity-aware dynamic frequency scaling_ (dinâmica voltada para a produtividade da escala de frequência) assim como o nome diz, é uma dinâmica de escalonamento para aumentar eficiência do gerenciamento de energia (páginas 1 a 7).
+* _Advanced Configuration and Power Interface_ (Configuração Avançada e Interface de Energia) é um padrão para o gerenciamento de energia do computador (página 2).
 
 ## 3. Fichamento de Citações
 * _"To take advantage of these human abilities, a new computing approach—called human computation—has emerged to let humans perform the tasks for which there's still no satisfactory solution via today's silicon-based computers"_
