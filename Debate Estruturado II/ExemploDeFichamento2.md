@@ -4,12 +4,13 @@ J. Mahboob and J. Coffman, "A Kubernetes CI/CD Pipeline with Asylo as a Trusted 
 
 ## 1. Fichamento de Conteúdo
 
-late coracao cachorro
+Atualmente, é possível observar que as grandes empresas de desenvolvimento de software, com devida frequência, utilizam e prescrevem padrões de implantação para integrações contínuas. A partir disso, o artigo em questão propõe um pipeline de CI/CD (Continuos e bla bla) executado em um Kubernete que irá oferecer um suporte seguro às empresas, de modo que irá aumentar a segurança geral do sistemas ao reduzir o número de entidades externas não seguras. Além disso, também irá contribuir para a repetibilidade e portabilidade do sistema geral, algo que é muito desejado pelas grandes organizações empreserais ao redor do mundo. Para tal, foi utilizado uma gama de softwares open-source e serviçoes de nuvem, como o Google Cloud Plataforma e GitHub, para que seja possível implementar o pipeline proposto. Dessa forma,
 
 ## 2. Fichamento Bibliográfico
 * _Enclave_ (enclave) é uma região de memória protegida que fornece confidencialidade para a execução de dados e de código (página 2).
-* _Pipeline_ é uma técnica de hardware que permite que a CPU realize a busca de uma ou mais instruções além da próxima a ser executada (página 2).
-* _Kubernetes_ é um sistema de orquestração de contêineres open-source que automatiza a implantação, o dimensionamento e a gestão de aplicações em contêineres.
+* _Pipeline_ é uma técnica de hardware que permite que a CPU realize a busca de uma ou mais instruções além da próxima a ser executada (páginas 1 a 7).
+* _Kubernetes_ é um sistema de orquestração de contêineres open-source que automatiza a implantação, o dimensionamento e a gestão de aplicações em contêineres(páginas 3 e 4).
+* _Cluster_ consiste em computadores fracamente ou fortemente ligados que trabalham em conjunto, de modo que, em muitos aspectos, podem ser considerados como um único sistema (páginas 1 a 7).
 
 ## 3. Fichamento de Citações
 * _"Unfortunately, adoption is challenging due to the requirement for application developers to rewrite existing code."_
