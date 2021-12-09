@@ -14,4 +14,7 @@ Atualmente, é possível observar que as grandes empresas de desenvolvimento de 
 
 ## 3. Fichamento de Citações
 * _"Unfortunately, adoption is challenging due to the requirement for application developers to rewrite existing code."_
+* _"Our CI/CD pipeline is architected using Kubernetes, an increasingly popular Platform as a Service (PaaS) offering, and can be migrated trivially to different cloud providers or to on-premise infrastructure."_
+* _"We extend the CI/CD pipeline with an additional step that automatically deploys artifacts using Asylo, a TEE framework, to ensure the confidentiality of deployment artifacts."_
+* _"We provide a comprehensive evaluation that focuses on the security, performance, and limitations of our CI/CD pipeline."_
 
