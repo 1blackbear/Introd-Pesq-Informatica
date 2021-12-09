@@ -1,6 +1,6 @@
-# Search Algorithms for Regression Test Case Prioritization
+# A Kubernetes CI/CD Pipeline with Asylo as a Trusted Execution Environment Abstraction Framework
 
-Li, Zheng; Harman, Mark; Hierons, Robert M. (2007) "Search Algorithms for Regression Test Case Prioritization", IEEE Transactions on Software Engineering, vol. 33, no. 4, pp. 225-237, doi: [10.1109/TSE.2007.38](https://doi.org/10.1109/TSE.2007.38)
+J. Mahboob and J. Coffman, "A Kubernetes CI/CD Pipeline with Asylo as a Trusted Execution Environment Abstraction Framework," 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0529-0535, doi: [10.1109/CCWC51732.2021.9376148](https://doi.org/10.1109/CCWC51732.2021.9376148).
 
 ## 1. Fichamento de Conteúdo
 
