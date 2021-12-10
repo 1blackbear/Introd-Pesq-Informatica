@@ -7,10 +7,14 @@
 
 
 ## Questionamentos
-* Como o PAFS se comporta em relação aos outros DFS que não estiveram nos testes realizados?
-* Foram utilizados sistemas com diferentes requisitos para a realização dos testes do PAFS?
-* Como as pesquisas futuras do segundo artigo podem prever o tempo de disponibilidade da máquina?
-* Por quê o tempo limite a ser descoberto pelas futuras pesquisas do artigo 2 é importante?
+A Kubernetes CI/CD Pipeline with Asylo as aTrusted Execution Environment Abstraction Framework:
+* Quais foram os dados quantitativos em relação aos resultados obtidos?
+* Como o GitLab superaria a limitação deixada pelo Github?
+
+HySec-Flow: Privacy-Preserving Genomic Computing with SGX-based Big:
+
+* a
+*
 
 ### Erick Vinicius Oliveira de Paiva
 
