@@ -13,8 +13,8 @@ A Kubernetes CI/CD Pipeline with Asylo as aTrusted Execution Environment Abstrac
 
 HySec-Flow: Privacy-Preserving Genomic Computing with SGX-based Big:
 
-* a
-*
+* Por quê o uso do SGX pode apresentar sobrecarga?
+* Por quê o envio com base em bloomfilter tem um impacto na precisão da saída final?
 
 ### Erick Vinicius Oliveira de Paiva
 
